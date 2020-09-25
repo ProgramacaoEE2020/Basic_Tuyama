@@ -1,34 +1,3 @@
-Programação não estruturada
-LUIZ RENAULT LEITE RODRIGUES
-•
-11 de set.
-100 pontos
-Data de entrega: 19 de set. 08:25
-Escrever um programa em MSX Basic, implementando o pseudocódigo apresentado por você no último trabalho, que desenhe na tela um tabuleiro de xadrez.
-
-Utilizar o simulador disponível em https://webmsx.org/ e referências da linguagem encontradas na internet, como por exemplo em https://www.msx.org/wiki/Category:MSX-BASIC_Instructions ou http://www.afwg.com.br/msx/livros/Linguagem_Basic_MSX.pdf.
-
-Enviar como solução da tarefa o código e um screenshot do resultado do programa.
-Comentários da turma
-
-
-Seus trabalhos
-Devolvido
-
-msx_chess.txt
-Texto
-
-pseudocódigo_chess.docx
-Word
-
-msx_chess.png
-Imagem
-1 comentário particular
-
-ARTUR GOMES TUYAMA17 de set.
-Enviei o pseudocodigo também pois tive que fazer alguns pequenos ajustes no que eu havia pensado anteriormente.
-
-
 10 WIDTH 80
 20 DIM T$(8,8)
 30 FOR L=0 TO 7
