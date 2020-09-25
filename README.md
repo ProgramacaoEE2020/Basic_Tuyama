@@ -1,7 +1,7 @@
 # Basic_Tuyama
 - Pode-se encontrar o Pseudocódigo e o código em MSX BASIC nos links a seguir:
 
-  [Pseudocódigo]() 
+  [Pseudocódigo](https://github.com/ProgramacaoEE2020/Basic_Tuyama/blob/master/C%C3%B3digos/pseudocodigo_chess.txt) 
 
   [MSX BASIC](https://github.com/ProgramacaoEE2020/Basic_Tuyama/blob/master/C%C3%B3digos/msx_chess.txt)
 
