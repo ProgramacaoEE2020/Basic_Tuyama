@@ -5,6 +5,6 @@
 
   [MSX BASIC](https://github.com/ProgramacaoEE2020/Basic_Tuyama/blob/master/C%C3%B3digos/msx_chess.txt)
 
-- Como resultado, obtém-se o seguinte screenshot:
+- A tela após o programa rodar fica como no screenshot abaixo:
 
 ![](msx_chess.png)
